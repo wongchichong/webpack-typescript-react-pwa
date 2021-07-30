@@ -30,7 +30,6 @@ To run this locally:
 5. Open up [http://localhost:8080](http://localhost:8080)
 
 ## Screenshots
-```
 ![Web](https://raw.githubusercontent.com/wongchichong/webpack-typescript-react-pwa/main/readme/ScreenHunter_188%20Jul.%2030%2011.47.png)
 ![source](https://raw.githubusercontent.com/wongchichong/webpack-typescript-react-pwa/main/readme/ScreenHunter_188%20Jul.%2030%2011.50.png)
 ![pwa](https://raw.githubusercontent.com/wongchichong/webpack-typescript-react-pwa/main/readme/ScreenHunter_188%20Jul.%2030%2011.55.png)
