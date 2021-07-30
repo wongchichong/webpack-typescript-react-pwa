@@ -17,7 +17,7 @@
 -   [husky](https://www.npmjs.com/package/husky) prehooks and [lint-staged](https://www.npmjs.com/package/lint-staged)
 -	basic [react-router-dom v5 + code splitting](https://reactjs.org/docs/code-splitting.html)
 -	basic PWA [Workbox](https://developers.google.com/web/tools/workbox/guides/generate-service-worker/webpack)
--	[todo if needed](https://www.fabrizioduroni.it/2020/08/07/webpack-workbox-service-worker-typescript/)
+-	[todo if needed (handcraft service-worker)](https://www.fabrizioduroni.it/2020/08/07/webpack-workbox-service-worker-typescript/)
 
 ## Quick start
 
