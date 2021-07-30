@@ -1,4 +1,4 @@
-# Webpack 5 boilerplate
+# Webpack 5 PWA React 17 Router 5 boilerplate
 
 ![](https://habrastorage.org/webt/q-/lv/b0/q-lvb0d4li7cpi-hsctistlzooi.png)
 
@@ -14,9 +14,9 @@
 -   importing svg as react components using [@svgr/webpack](https://www.npmjs.com/package/@svgr/webpack)
 -   postcss loader (with [autoprefixer](https://www.npmjs.com/package/autoprefixer) and [cssnano](https://www.npmjs.com/package/cssnano))
 -   [husky](https://www.npmjs.com/package/husky) prehooks and [lint-staged](https://www.npmjs.com/package/lint-staged)
--	basic react-router-dom v5
--	basic pwa workbox
--	basic code splitting
+-	basic [react-router-dom v5]
+-	basic [PWA] workbox
+-	basic [code splitting]
 
 ## Quick start
 
