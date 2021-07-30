@@ -44,7 +44,7 @@ export default {
         plugins.esLintPlugin,
         plugins.copyPlugin,
         plugins.generateSW,
-        plugins.injectManifest,
+        //plugins.injectManifest,
     ]),
     resolve: {
         alias: aliasItems,
